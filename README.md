@@ -1,5 +1,4 @@
-The project is used to generate guitar tab music from music in ABC notation. This project is a work in progress and will continued to be improved on.
-
+The project is used to generate guitar tab music from music in ABC notation.
 Usage:
 - Look at the individual folders for each package (downward, Tabctoabc, abctab2ps) and make sure you have the required packages/libraries.
 - For default use: Run the `get_tab.sh` file with the location of the `.abc` file you want to convert.
